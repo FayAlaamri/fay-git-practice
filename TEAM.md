@@ -1,2 +1,2 @@
-\- Test Developer, practicing conflicts
+\- Fay, learning Git
 
